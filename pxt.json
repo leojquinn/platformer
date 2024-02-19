@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "corgio": "*"
+        "corgio": "*",
+        "sprite-scaling": "*",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.18"
     },
     "files": [
         "main.blocks",
